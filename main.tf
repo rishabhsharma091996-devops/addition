@@ -3,3 +3,9 @@ resource "azurerm_resource_group" "rj" {
     location = "westus"
   
 }
+
+resource "azurerm_resource_group" "rj" {
+    name = "wallian"
+    location = "eastus"
+  
+}
