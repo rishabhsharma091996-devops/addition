@@ -5,7 +5,7 @@ resource "azurerm_resource_group" "rj" {
 }
 
 resource "azurerm_resource_group" "rj" {
-    name = "wallian"
+    name = "pajji"
     location = "eastus"
   
 }
